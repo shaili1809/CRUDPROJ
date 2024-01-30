@@ -1,0 +1,106 @@
+{
+  "Fruits": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "quantity": 100,
+      "price": 200
+    },
+    {
+      "id": "2",
+      "name": "Orrange",
+      "quantity": 200,
+      "price": 50
+    },
+    {
+      "id": "3",
+      "name": "Mango",
+      "quantity": 400,
+      "price": 300
+    },
+    {
+      "id": "67",
+      "name": "Jackfruit",
+      "quantity": 4000,
+      "price": 500
+    },
+    {
+      "id": "199",
+      "name": "Strawberry",
+      "quantity": 50000,
+      "price": 45632
+    },
+    {
+      "id": "0",
+      "name": "dragonfruit",
+      "price": 456,
+      "quantity": 5
+    },
+    {
+      "id": "4",
+      "name": "abcd",
+      "price": 564,
+      "quantity": 4
+    },
+    {
+      "id": "8",
+      "name": "ghfhg",
+      "price": 56,
+      "quantity": 1
+    },
+    {
+      "id": "1",
+      "name": "shaili",
+      "price": 23,
+      "quantity": 1
+    },
+    {
+      "id": "1",
+      "name": "shaili",
+      "price": 34,
+      "quantity": 2
+    },
+    {
+      "id": "0",
+      "name": "",
+      "price": 0,
+      "quantity": 0
+    },
+    {
+      "id": "100",
+      "name": "shaili",
+      "price": 34,
+      "quantity": 34
+    },
+    {
+      "id": "1",
+      "name": "skkjs",
+      "price": 3,
+      "quantity": 5
+    },
+    {
+      "id": "1",
+      "name": "shaili",
+      "price": 34,
+      "quantity": 1
+    },
+    {
+      "id": "23",
+      "name": "anjali",
+      "price": 0,
+      "quantity": 0
+    },
+    {
+      "id": "56",
+      "name": "fgf",
+      "price": 0,
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "name": "ffff",
+      "price": 45,
+      "quantity": 2
+    }
+  ]
+}
